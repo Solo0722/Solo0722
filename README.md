@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **owusuansahsolomon39@gmail.com**
 
-- 📄 Know about my experiences [oasolomon.vercel.app](oasolomon.vercel.app)
+- 📄 Know about my experiences [https://oasolomon.vercel.app](oasolomon.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

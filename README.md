@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solo0722" alt="solo0722" /></a> </p>
 
-- 🔭 I’m currently working on **Android Notepad - A mobile app for writing notes and tasks**
 
 - 🌱 I’m currently learning **React Native, Electron**
 

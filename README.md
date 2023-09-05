@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solo0722" alt="solo0722" /></a> </p>
 
 
-- 🌱 I’m currently learning **React Native, Electron**
+- 🌱 I’m currently learning **Backend development,FastApi**
 
 - 👨‍💻 All of my projects are available at [oasolomon.vercel.app](oasolomon.vercel.app)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, NextJS, React Native**
 
 - 📫 How to reach me **owusuansahsolomon39@gmail.com**
 

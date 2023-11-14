@@ -7,7 +7,7 @@ Frontend Developer, Aspiring Fullstack Developer
 * 🌍  I'm based in Kumasi-Ghana
 * 🖥️  See my portfolio at [oasolomon.vercel.app](http://oasolomon.vercel.app)
 * ✉️  You can contact me at [owusuansahsolomon39@gmail.com](mailto:owusuansahsolomon39@gmail.com)
-* 🧠  I'm learning Flask and FastApi
+* 🧠  I'm learning Flask,FastApi and Flutter
 * 🤝  I'm open to collaborating on interesting projects and more
 
 <a href="https://www.github.com/Solo0722" target="_blank" rel="noreferrer"><img

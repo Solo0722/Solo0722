@@ -9,7 +9,7 @@ Meet Solomon, a passionate and skilled software developer with a flair for turni
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [oasolomon.vercel.app](http://oasolomon.vercel.app)
 * ✉️  You can contact me at [owusuansahsolomon39@gmail.com || +233599171142](mailto:owusuansahsolomon39@gmail.com || +233599171142)
-* 🧠  I'm learning Flutter, Flask
+* 🧠  I'm learning Data analysis, Flutter
 * 🤝  I'm open to collaborating on React, React Native, Node JS, Python, NextJS and many more...
 
 <a href="https://www.github.com/Solo0722" target="_blank" rel="noreferrer"><img

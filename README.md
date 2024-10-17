@@ -1,7 +1,7 @@
 Hi 👋 My name is Solomon Owusu-Ansah
 ====================================
 
-Software Developer || Student
+Software Developer || Data Scientist
 -----------------------------
 
 Meet Solomon, a passionate and skilled software developer with a flair for turning complex ideas into efficient and user-friendly applications. With a solid foundation in computer science and a keen eye for detail, Solomon thrives on tackling challenging coding problems and finding innovative solutions.

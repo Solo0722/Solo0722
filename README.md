@@ -37,14 +37,6 @@ src="https://img.shields.io/github/followers/Solo0722?logo=github&style=for-the-
 
 <a href="https://github.com/Solo0722" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solo0722&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Solo0722/deliveroo-2.0-expo-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Solo0722&repo=deliveroo-2.0-expo-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Solo0722/moviemix" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Solo0722&repo=moviemix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Solo0722/contaxts-expo-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Solo0722&repo=contaxts-expo-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">

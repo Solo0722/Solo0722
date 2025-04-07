@@ -11,6 +11,7 @@ Meet Solomon, a passionate and skilled software developer with a flair for turni
 * ✉️  You can contact me at [owusuansahsolomon39@gmail.com || +233599171142](mailto:owusuansahsolomon39@gmail.com || +233599171142)
 * 🧠  I'm learning Data analysis, Flutter
 * 🤝  I'm open to collaborating on React, React Native, Node JS, Python, NextJS and many more...
+* 📄  [Link to my resume](https://ik.imagekit.io/5kwcgtj3iv/images/Solomon_Owusu_Ansah_CV.pdf?updatedAt=1720100955055)
 
 <a href="https://www.github.com/Solo0722" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Solo0722?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>

@@ -1,6 +1,6 @@
 <img src="https://ik.imagekit.io/5kwcgtj3iv/White%20Minimalist%20Profile%20LinkedIn%20Banner.png?updatedAt=1754649440761"/>
 
-Highly motivated and results-oriented full-stack software developer and data scientist with 4+ years of experience and a proven ability to design, develop, and deploy innovative web and mobile applications. Experienced in collaborating effectively with cross-functional teams to deliver high-quality solutions that meet user needs and enhance overall user experience. Possesses a strong understanding of both front-end and back-end development, along with expertise in data analysis techniques. Eager to contribute technical skills and analytical insights to a challenging role in a fast-paced environment.
+Highly motivated and results-oriented <strong>full-stack software developer</strong> and <strong>data scientist</strong> with 4+ years of experience and a proven ability to design, develop, and deploy innovative web and mobile applications. Experienced in collaborating effectively with cross-functional teams to deliver high-quality solutions that meet user needs and enhance overall user experience. Possesses a strong understanding of both front-end and back-end development, along with expertise in data analysis techniques. Eager to contribute technical skills and analytical insights to a challenging role in a fast-paced environment.
 
 🌍  I'm based in Ghana<br/>
 🖥️  See my portfolio at [oasolomon.vercel.app](http://oasolomon.vercel.app)<br/>

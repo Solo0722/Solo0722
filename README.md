@@ -1,12 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="28px" alt="wave"/> Hey there, I'm Solomon
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Data+Science+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
-  </a>
-</div>
-
----
+<a href="http://oasolomon.vercel.app" target="_blank"> <img src="https://ik.imagekit.io/5kwcgtj3iv/White%20Minimalist%20Profile%20LinkedIn%20Banner.png?updatedAt=1754649440761" width="100%" alt="Solomon Owusu Ansah — Software Developer" /> </a>
 
 ## 🎯 About Me
 

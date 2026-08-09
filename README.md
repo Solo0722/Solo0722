@@ -17,9 +17,9 @@ I'm a **full-stack software developer** and **data scientist** with **4+ years o
 <div align="left">
 
 ### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 </div>
 
@@ -41,23 +41,10 @@ I'm a **full-stack software developer** and **data scientist** with **4+ years o
 
 </div>
 
-<div align="center">
-  <a href="http://www.github.com/Solo0722">
-    <img src="https://github-readme-stats.vercel.app/api?username=Solo0722&show_icons=true&hide=contribs&count_private=true&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&bg_color=0F3460&hide_border=true&show_icons=true" alt="Solo0722's GitHub stats" />
-  </a>
-</div>
+![](https://github-readme-stats.shion.dev/api?username=solo0722&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=solo0722&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=solo0722&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="left">
-  <a href="http://www.github.com/Solo0722">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Solo0722&stroke=00D9FF&background=0F3460&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://github.com/Solo0722">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solo0722&langs_count=10&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&bg_color=0F3460&hide_border=true&locale=en&custom_title=Top+Languages" alt="Top Languages" />
-  </a>
-</div>
 
 ---
 

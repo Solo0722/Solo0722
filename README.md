@@ -18,7 +18,7 @@ Fargo, ND, USA
 
 I am a graduate research assistant and master's student at North Dakota State University, working in machine learning, deep learning, and computer vision.
 
-Before NDSU, I spent 4+ years as a full-stack software developer at a startup in Ghana, building web and mobile applications in production.
+I am also a software developer with 4+ years of experience.
 
 - **Based in:** Fargo, ND, USA
 - **Research:** Machine learning, deep learning, and computer vision
@@ -29,7 +29,6 @@ Before NDSU, I spent 4+ years as a full-stack software developer at a startup in
 ## What I'm Working On
 
 - Graduate research in machine learning, deep learning, and computer vision at NDSU
-- Open-source contributions across the machine learning ecosystem
 
 ## Tech Stack
 
